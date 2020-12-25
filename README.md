@@ -7,6 +7,7 @@ This is an application that can be use to manage a car rental or car sale compan
 - An emplyee profile page
 - An HR managment board
 - Add or remove employee
+- Add, remove, update vehicles
 
 ## Technologies
 - Java
